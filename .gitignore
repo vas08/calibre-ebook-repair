@@ -1,0 +1,7 @@
+__pycache__/
+ebook-repair-work/
+*.egg-info/
+# word lists are built by build-dict from the user's own library
+data/dict_*.tsv
+data/*.tmp
+.DS_Store
